@@ -1,0 +1,11 @@
+h1{
+    color:red;
+}
+h2{
+    color:BLUE;
+}
+/*selector de clase*/
+.oscuro{
+    background-color: black;
+    color: white;
+}
